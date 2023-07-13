@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+pprint
+pandas
+matplotlib
+folium
+regex
+pydeck
