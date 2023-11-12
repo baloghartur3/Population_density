@@ -2,6 +2,8 @@
 
 This small project uses web scraping and pydeck to visualize the population density of Hungary
 
+![Visual](example.gif)
+
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the requirements.
